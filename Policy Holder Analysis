@@ -1,8 +1,1 @@
-# Policy-Holder-Analysis
-My analysis was conducted under the assumption that I am employed by an insurance company to review hospital records of their policyholders and provide insights based on the data.
- I transformed the values from some columns from “0 or 1” to a “yes or no” to better help provide insights
- Transformed the value in the gender Colunm to state either “male or female”
- Wrote a Dax expression to extract the number of females from male policyholders
- Created a conditional Colunm to find the relative similarities and differences between 2 or more diseases among the policyholders, according to gender
- Implemented a benchmark age for assessing the average age of policyholders as a key performance indicator.
- Presented suggestions for the organization to consider implementing.
+
